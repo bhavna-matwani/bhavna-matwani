@@ -1,5 +1,5 @@
 ## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-😊 I am Bhavna Matwani , a junior undergraduate in EE at NIT, Surat.<br>
+😊 I am Bhavna Matwani , pursuing MS in CS at New York University Courant.<br>
 🔭 I am passionate about data science and machine learning.<br>
 
 ## GitHub Stats
